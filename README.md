@@ -31,7 +31,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a></p>
 
-## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
+## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> My Social Media 👋</b>
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderluzarraga.profesional@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/alexander_lb11)
@@ -42,11 +42,6 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/deepshikhayadav2?tab=topactivity)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/18833908)-->
 
-
-[![GitHub deepshikhayadav](https://img.shields.io/github/followers/AlexLB-Official?label=follow&style=social&logoColor=black)](https://github.com/AlexLB-Official)
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -56,3 +51,4 @@
 </a>
 </p>
 
+[![GitHub deepshikhayadav](https://img.shields.io/github/followers/AlexLB-Official?label=follow&style=social&logoColor=black)](https://github.com/AlexLB-Official)
